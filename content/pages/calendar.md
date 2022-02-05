@@ -4,18 +4,135 @@ title: Calendar
 uid: 9d68eaaa-3c64-adf0-0cf1-27cd06634d3a
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction: What is Social Visualization? |
-| 2 | Social Networks: Foci, Strong and Weak Links |
-| 3 | Basic Design Elements: Using Color, Form and Line |
-| 4 | The Social Structure of Conversations |
-| 5 | Time, Narrative and History |
-| 6 | Inhabited Visualizations |
-| 7 | Visualizing Email |
-| 8 | Data Portraits |
-| 9 | Final Project Proposal Presentations |
-| 10 | Visualized Faces |
-| 11 | Spaces, Metaphors and Maps |
-| 12 | Visualization as Architecture |
-| 13 | Final Project
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: What is Social Visualization?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Social Networks: Foci, Strong and Weak Links
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Design Elements: Using Color, Form and Line
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Social Structure of Conversations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Time, Narrative and History
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Inhabited Visualizations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visualizing Email
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Data Portraits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Proposal Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Visualized Faces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Spaces, Metaphors and Maps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Visualization as Architecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

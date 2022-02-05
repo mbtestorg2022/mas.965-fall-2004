@@ -4,21 +4,289 @@ title: Readings
 uid: 15348213-b13e-adf4-250d-ba0488bc2e24
 ---
 
-| SES # | TOPICS | READINGS AND RESOURCES |
-| --- | --- | --- |
-| 1 | Introduction: What is Social Visualization? | _Readings  {{< br >}}  {{< br >}}_Garton, Haythornthwaite, and Wellman. [Studying Online Social Networks](http://jcmc.indiana.edu/vol3/issue1/garton.html).  {{< br >}}  {{< br >}}Freeman, Lin. [Visualizing Social Networks](http://social.cs.uiuc.edu/class/cs598kgk/syllabus.html).  {{< br >}}  {{< br >}}_More Examples  {{< br >}}  {{< br >}}_[They Rule (Josh On)](http://www.theyrule.net/).  {{< br >}}  {{< br >}}[September 11 Terror Network](http://www.firstmonday.org/issues/issue7_4/krebs/) and [Political Books, Polarized Readers](http://www.orgnet.com/divided.html) by [Valdis Krebs](http://www.orgnet.com/). See also these [Ryze and Blog Networks](https://www.ryze.com/index.php).  {{< br >}}  {{< br >}}[Works](http://www.albany.edu/museum/wwwmuseum/work/lombardi/) by [Mark Lombardi](http://www.wburg.com/0202/arts/lombardi.html).  {{< br >}}  {{< br >}}The Sociable Media Group's [Social Network Fragments](http://smg.media.mit.edu/projects/SocialNetworkFragments/implementation/layout/).  {{< br >}}_  {{< br >}}Possibly Useful Software  {{< br >}}  {{< br >}}_Here is a [list of open source graphing software](https://inomics.com/insight/best-open-source-software-for-graphing-and-plotting-47723{{< br >}}), for those of you who wish to try computational sketching. There are some nice examples with [TouchGraph](http://www.touchgraph.com/index.html), among others. |
-| 2 | Social Networks: Foci, Strong and Weak Links | _Readings on Perception and Design  {{< br >}}  {{< br >}}_Tufte, Edward R. _Envisioning Information_. Cheshire, CT: Graphics Press. 1 May 1990. ISBN: 9780961392116.  {{< br >}}  {{< br >}}On color: Jacobsen, and Bender. "[Color as a Determined Communication](http://portal.acm.org/citation.cfm?id=243519.243536)."  {{< br >}}  {{< br >}}Some quick readings on gestalt perception: David Chandler's page on [Gestalt Principles](https://web.archive.org/web/20200331223826/http://facweb.cs.depaul.edu/sgrais/gestalt_principles.htm) and this one by Carlo Pedroza.  {{< br >}}_  {{< br >}}Readings on Social Networks  {{< br >}}_  {{< br >}}Granovetter. "The Strength of Weak Ties." ([PDF - 2.1 MB](http://smg.media.mit.edu/library/Granovetter.WeakTies.pdf))  {{< br >}}  {{< br >}}Feld, Scott. "The Focused Organization of Social Ties." ([PDF - 2.0 MB](http://smg.media.mit.edu/library/Feld.SocialTies.pdf))  {{< br >}}  {{< br >}}Adamic, and Adar. How to Search a Social Network. ([PDF](http://cond.org/socsearch.pdf))  {{< br >}}  {{< br >}}Ravid, and Rafaeli. [Asynchronous Discussion Groups as Small World and Scale Free Networks](http://www.firstmonday.org/issues/issue9_9/ravid/index.html). |
-| 3 | Basic Design Elements: Using Color, Form and Line | _Readings  {{< br >}}_  {{< br >}}Small, David. "[Navigating Large Bodies of Text](http://portal.acm.org/citation.cfm?id=243535&dl=&coll=)." _IBM Systems Journal_ 35, no. 3 and 4 (1996).  {{< br >}}  {{< br >}}Donath, Judith. [A Semantic Approach to Visualizing Conversations](http://doi.acm.org/10.1145/505248.505271). 2002.  {{< br >}}  {{< br >}}Goodwin, Charles. "Action and Embodiment within Situated Human Interaction." _Journal of Pragmatics_ 32: 1489-522 OR Goodwin, and Heritage. "Conversation Analysis." _Annual Review of Anthropology_ 19: 283-307. ([PDF 1 - 2.2 MB](http://www.sscnet.ucla.edu/clic/cgoodwin/00act_body.pdf)) ([PDF 2 - 2.8 MB](http://www.sscnet.ucla.edu/clic/cgoodwin/90conv_an.pdf)) |
-| 4 | The Social Structure of Conversations | _Readings_  {{< br >}}  {{< br >}}[Lifelines](http://www.cs.umd.edu/hcil/lifelines/) University of Maryland (Plaisant).  {{< br >}}  {{< br >}}[Wiki history](http://www.research.ibm.com/history/) IBM (Wattenberg and Viegas).  {{< br >}}  {{< br >}}[Artifacts of the Presence Era](http://web.media.mit.edu/~fviegas/ICA/) SMG (Donath, Viegas, Perry and Howe).  {{< br >}}  {{< br >}}[Map Life Path](http://www.library.yale.edu/MapColl/index.html). |
-| 5 | Time, Narrative and History | _Readings  {{< br >}}_  {{< br >}}Donath, Judith. [A Semantic Approach to Visualizing Online Conversation](http://doi.acm.org/10.1145/505248.505271).  {{< br >}}  {{< br >}}Whittaker, Terveen, Hill, and Cherny. The Dynamics of Mass Interaction. ([PDF](http://social.cs.uiuc.edu/class/papers/p257-whittaker.pdf))  {{< br >}}  {{< br >}}Boyd, Danah, Hyun-Yeul Lee, Daniel Ramage, and Judith Donath. Developing Legible Visualizations for Online Social Spaces. ([PDF](http://smg.media.mit.edu/papers/danah/HICSS2002.pdf))  {{< br >}}  {{< br >}}Smith, Marc. Netscan: the interface and [a paper](http://doi.acm.org/10.1145/365024.365073) (with Andrew Fiore).  {{< br >}}  {{< br >}}Wattenberg, and Millen. [Conversation Thumbnails for Large-scale Discussions](http://doi.acm.org/10.1145/765891.765963).  {{< br >}}  {{< br >}}Sack, Warren. [Conversation Map](https://www.tandfonline.com/doi/abs/10.1080/07421222.2000.11045652) and [a paper](http://portal.acm.org/citation.cfm?id=1289640.1289645) about it. |
-| 6 | Inhabited Visualizations | _Readings  {{< br >}}_  {{< br >}}Donath, Judith. Visualizing Email. ([PDF](http://smg.media.mit.edu/papers/Donath/EmailArchives.draft.pdf))  {{< br >}}  {{< br >}}Duchenaut, and Bellotti. [Email as Habitat](http://doi.acm.org/10.1145/382899.383305).  {{< br >}}  {{< br >}}[Remail Project at IBM](http://domino.watson.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/19545e80f6d43f1685256dd3005ef422?OpenDocument). |
-| 7 | Visualizing Email | _Required Readings  {{< br >}}_  {{< br >}}Brilliant, Richard. Chapter 1 in _Portraiture_. Chicago, IL: Reaktion Books, 1 August 2004. ISBN: 9780948462191.  {{< br >}}  {{< br >}}[Id/Entity: Portraits in the 21st Century](http://smg.media.mit.edu/identity/portraits_files/frame.htm) - also DVD.  {{< br >}}_  {{< br >}}Supplementary Readings_  {{< br >}}  {{< br >}}From [Paradise Now Exhibit Catalog](http://web.archive.org/web/20090207084457/http://www.genomic-art.com/), works by Nancy Burson, Kevin Clarke, Larry Miller, Steve Miller, and G Schneider.  {{< br >}}  {{< br >}}Quinn, Marc. [Sir John Sulston: A Genomic Portrait](http://marcquinn.com/exhibitions/solo-exhibitions/a-genomic-portrait-sir-john-sulston-by-marc-quinn1).  {{< br >}}  {{< br >}}[Felix Gonzalex-Torres](https://www.felixgonzalez-torresfoundation.org/).  {{< br >}}  {{< br >}}[Gary Schneider](https://www.artsy.net/artist/gary-schneider).  {{< br >}}  {{< br >}}Campbell, Jim. [Portrait of My Mother, Portrait of My Father](http://www.jimcampbell.tv/portfolio/duds/).  {{< br >}}  {{< br >}}[Diego Goldberg Family Portraits](http://zonezero.com/magazine/essays/diegotime/time.html), [The Brown Sisters](http://slidegur.com/doc/5535087/presentation).  {{< br >}}  {{< br >}}[Grocery Lists](http://www.grocerylists.org/). |
-| 8 | Data Portraits | &nbsp; |
-| 9 | Final Project Proposal Presentations | _Readings  {{< br >}}_  {{< br >}}Azar, Beth. [What is in a face](http://ivizlab.sfu.ca/arya/Papers/Others/Emotions/Whats%20in%20a%20Face.pdf)?  {{< br >}}  {{< br >}}[Ecological Face Displays](https://web.archive.org/web/20160721193714/https://www.cs.ubc.ca/~jhoey/face/index.html).  {{< br >}}  {{< br >}}Donath, Judith. Mediated Faces (draft). ([PDF](http://smg.media.mit.edu/papers/Donath/MediatedFaces/MediatedFaces.CT2001.pdf))  {{< br >}}  {{< br >}}Walker, Sproull, and Subramani. [Using a Human Face in an Interface](http://doi.acm.org/10.1145/191666.191708) (local copy). ([PDF](http://smg.media.mit.edu/library/UsingHumanFaceInterface.pdf)) |
-| 10 | Visualized Faces | _Readings_  {{< br >}}  {{< br >}}Johnson, Mark, and George Lakoff. _Metaphors We Live By._ 2nd ed. Chicago, IL: University Of Chicago Press, April 15, 1980. ISBN: 9780226468013.  {{< br >}}  {{< br >}}Lynch, Kevin. Chapter 1 in [_The Image of the City_](http://www.miguelangelmartinez.net/IMG/pdf/1960_Kevin_Lynch_The_Image_of_The_City_book.pdf). Cambridge, MA: The MIT Press, June 15, 1960. ISBN: 9780262620017. |
-| 11 | Spaces, Metaphors and Maps | _Readings on Augmenting Public Space  {{< br >}}  {{< br >}}_Rozier, Karahalios, and Donath. "Here and There: An Augmented Reality System of Linked Audio." 2001. ([PDF](http://smg.media.mit.edu/papers/Rozier/Hear&ThereICAD.pdf))  {{< br >}}  {{< br >}}Reckimoto, J., Y. Ayatsuka, and K. Hayashi. "Augmentable Reality: Situated Communication Through Physical and Digital Spaces." _ISWC'98._ 1998. ([PDF](http://www.csl.sony.co.jp/person/rekimoto/papers/iswc98.pdf))  {{< br >}}  {{< br >}}[Tejp](http://www.viktoria.se/~lalya/)._  {{< br >}}  {{< br >}}Readings on Ambient Displays  {{< br >}}_  {{< br >}}Redström, Johan, Tobias Skog, and Lars Hallnäs. "[Informative Art: Using Amplified Artworks as Information Displays](http://soda.swedish-ict.se/2673/)." |
-| 12 | Visualization as Architecture | &nbsp; |
-| 13 | Final Project |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS AND RESOURCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: What is Social Visualization?
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings  
+  
+_Garton, Haythornthwaite, and Wellman. [Studying Online Social Networks](http://jcmc.indiana.edu/vol3/issue1/garton.html).  
+  
+Freeman, Lin. [Visualizing Social Networks](http://social.cs.uiuc.edu/class/cs598kgk/syllabus.html).  
+  
+_More Examples  
+  
+_[They Rule (Josh On)](http://www.theyrule.net/).  
+  
+[September 11 Terror Network](http://www.firstmonday.org/issues/issue7_4/krebs/) and [Political Books, Polarized Readers](http://www.orgnet.com/divided.html) by [Valdis Krebs](http://www.orgnet.com/). See also these [Ryze and Blog Networks](https://www.ryze.com/index.php).  
+  
+[Works](http://www.albany.edu/museum/wwwmuseum/work/lombardi/) by [Mark Lombardi](http://www.wburg.com/0202/arts/lombardi.html).  
+  
+The Sociable Media Group's [Social Network Fragments](http://smg.media.mit.edu/projects/SocialNetworkFragments/implementation/layout/).  
+_  
+Possibly Useful Software  
+  
+_Here is a [list of open source graphing software](https://inomics.com/insight/best-open-source-software-for-graphing-and-plotting-47723
+), for those of you who wish to try computational sketching. There are some nice examples with [TouchGraph](http://www.touchgraph.com/index.html), among others.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Social Networks: Foci, Strong and Weak Links
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings on Perception and Design  
+  
+_Tufte, Edward R. _Envisioning Information_. Cheshire, CT: Graphics Press. 1 May 1990. ISBN: 9780961392116.  
+  
+On color: Jacobsen, and Bender. "[Color as a Determined Communication](http://portal.acm.org/citation.cfm?id=243519.243536)."  
+  
+Some quick readings on gestalt perception: David Chandler's page on [Gestalt Principles](https://web.archive.org/web/20200331223826/http://facweb.cs.depaul.edu/sgrais/gestalt_principles.htm) and this one by Carlo Pedroza.  
+_  
+Readings on Social Networks  
+_  
+Granovetter. "The Strength of Weak Ties." ([PDF - 2.1 MB](http://smg.media.mit.edu/library/Granovetter.WeakTies.pdf))  
+  
+Feld, Scott. "The Focused Organization of Social Ties." ([PDF - 2.0 MB](http://smg.media.mit.edu/library/Feld.SocialTies.pdf))  
+  
+Adamic, and Adar. How to Search a Social Network. ([PDF](http://cond.org/socsearch.pdf))  
+  
+Ravid, and Rafaeli. [Asynchronous Discussion Groups as Small World and Scale Free Networks](http://www.firstmonday.org/issues/issue9_9/ravid/index.html).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Design Elements: Using Color, Form and Line
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings  
+_  
+Small, David. "[Navigating Large Bodies of Text](http://portal.acm.org/citation.cfm?id=243535&dl=&coll=)." _IBM Systems Journal_ 35, no. 3 and 4 (1996).  
+  
+Donath, Judith. [A Semantic Approach to Visualizing Conversations](http://doi.acm.org/10.1145/505248.505271). 2002.  
+  
+Goodwin, Charles. "Action and Embodiment within Situated Human Interaction." _Journal of Pragmatics_ 32: 1489-522 OR Goodwin, and Heritage. "Conversation Analysis." _Annual Review of Anthropology_ 19: 283-307. ([PDF 1 - 2.2 MB](http://www.sscnet.ucla.edu/clic/cgoodwin/00act_body.pdf)) ([PDF 2 - 2.8 MB](http://www.sscnet.ucla.edu/clic/cgoodwin/90conv_an.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Social Structure of Conversations
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings_  
+  
+[Lifelines](http://www.cs.umd.edu/hcil/lifelines/) University of Maryland (Plaisant).  
+  
+[Wiki history](http://www.research.ibm.com/history/) IBM (Wattenberg and Viegas).  
+  
+[Artifacts of the Presence Era](http://web.media.mit.edu/~fviegas/ICA/) SMG (Donath, Viegas, Perry and Howe).  
+  
+[Map Life Path](http://www.library.yale.edu/MapColl/index.html).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Time, Narrative and History
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings  
+_  
+Donath, Judith. [A Semantic Approach to Visualizing Online Conversation](http://doi.acm.org/10.1145/505248.505271).  
+  
+Whittaker, Terveen, Hill, and Cherny. The Dynamics of Mass Interaction. ([PDF](http://social.cs.uiuc.edu/class/papers/p257-whittaker.pdf))  
+  
+Boyd, Danah, Hyun-Yeul Lee, Daniel Ramage, and Judith Donath. Developing Legible Visualizations for Online Social Spaces. ([PDF](http://smg.media.mit.edu/papers/danah/HICSS2002.pdf))  
+  
+Smith, Marc. Netscan: the interface and [a paper](http://doi.acm.org/10.1145/365024.365073) (with Andrew Fiore).  
+  
+Wattenberg, and Millen. [Conversation Thumbnails for Large-scale Discussions](http://doi.acm.org/10.1145/765891.765963).  
+  
+Sack, Warren. [Conversation Map](https://www.tandfonline.com/doi/abs/10.1080/07421222.2000.11045652) and [a paper](http://portal.acm.org/citation.cfm?id=1289640.1289645) about it.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Inhabited Visualizations
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings  
+_  
+Donath, Judith. Visualizing Email. ([PDF](http://smg.media.mit.edu/papers/Donath/EmailArchives.draft.pdf))  
+  
+Duchenaut, and Bellotti. [Email as Habitat](http://doi.acm.org/10.1145/382899.383305).  
+  
+[Remail Project at IBM](http://domino.watson.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/19545e80f6d43f1685256dd3005ef422?OpenDocument).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visualizing Email
+{{< tdclose >}}
+{{< tdopen >}}
+_Required Readings  
+_  
+Brilliant, Richard. Chapter 1 in _Portraiture_. Chicago, IL: Reaktion Books, 1 August 2004. ISBN: 9780948462191.  
+  
+[Id/Entity: Portraits in the 21st Century](http://smg.media.mit.edu/identity/portraits_files/frame.htm) - also DVD.  
+_  
+Supplementary Readings_  
+  
+From [Paradise Now Exhibit Catalog](http://web.archive.org/web/20090207084457/http://www.genomic-art.com/), works by Nancy Burson, Kevin Clarke, Larry Miller, Steve Miller, and G Schneider.  
+  
+Quinn, Marc. [Sir John Sulston: A Genomic Portrait](http://marcquinn.com/exhibitions/solo-exhibitions/a-genomic-portrait-sir-john-sulston-by-marc-quinn1).  
+  
+[Felix Gonzalex-Torres](https://www.felixgonzalez-torresfoundation.org/).  
+  
+[Gary Schneider](https://www.artsy.net/artist/gary-schneider).  
+  
+Campbell, Jim. [Portrait of My Mother, Portrait of My Father](http://www.jimcampbell.tv/portfolio/duds/).  
+  
+[Diego Goldberg Family Portraits](http://zonezero.com/magazine/essays/diegotime/time.html), [The Brown Sisters](http://slidegur.com/doc/5535087/presentation).  
+  
+[Grocery Lists](http://www.grocerylists.org/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Data Portraits
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Proposal Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings  
+_  
+Azar, Beth. [What is in a face](http://ivizlab.sfu.ca/arya/Papers/Others/Emotions/Whats%20in%20a%20Face.pdf)?  
+  
+[Ecological Face Displays](https://web.archive.org/web/20160721193714/https://www.cs.ubc.ca/~jhoey/face/index.html).  
+  
+Donath, Judith. Mediated Faces (draft). ([PDF](http://smg.media.mit.edu/papers/Donath/MediatedFaces/MediatedFaces.CT2001.pdf))  
+  
+Walker, Sproull, and Subramani. [Using a Human Face in an Interface](http://doi.acm.org/10.1145/191666.191708) (local copy). ([PDF](http://smg.media.mit.edu/library/UsingHumanFaceInterface.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Visualized Faces
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings_  
+  
+Johnson, Mark, and George Lakoff. _Metaphors We Live By._ 2nd ed. Chicago, IL: University Of Chicago Press, April 15, 1980. ISBN: 9780226468013.  
+  
+Lynch, Kevin. Chapter 1 in [_The Image of the City_](http://www.miguelangelmartinez.net/IMG/pdf/1960_Kevin_Lynch_The_Image_of_The_City_book.pdf). Cambridge, MA: The MIT Press, June 15, 1960. ISBN: 9780262620017.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Spaces, Metaphors and Maps
+{{< tdclose >}}
+{{< tdopen >}}
+_Readings on Augmenting Public Space  
+  
+_Rozier, Karahalios, and Donath. "Here and There: An Augmented Reality System of Linked Audio." 2001. ([PDF](http://smg.media.mit.edu/papers/Rozier/Hear&ThereICAD.pdf))  
+  
+Reckimoto, J., Y. Ayatsuka, and K. Hayashi. "Augmentable Reality: Situated Communication Through Physical and Digital Spaces." _ISWC'98._ 1998. ([PDF](http://www.csl.sony.co.jp/person/rekimoto/papers/iswc98.pdf))  
+  
+[Tejp](http://www.viktoria.se/~lalya/)._  
+  
+Readings on Ambient Displays  
+_  
+Redström, Johan, Tobias Skog, and Lars Hallnäs. "[Informative Art: Using Amplified Artworks as Information Displays](http://soda.swedish-ict.se/2673/)."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Visualization as Architecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Social Visualization
 --------------------
