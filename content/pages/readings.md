@@ -400,7 +400,7 @@ Nielson, Gregory M., Heinrich Mueller, and Hans Hagen, eds. "Scientific Visualiz
 Social Analysis
 ---------------
 
-Milgram, Stanley. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Psychological maps of Paris." (PDF - 31.1MB)](http://teaching.paulos.net/CP_2015/Readings/Milgram.pdf) In _The Individual in a Social World_ _Reading_. MA: Addison-Wesley, 1977.
+Milgram, Stanley. ["Psychological maps of Paris." (PDF - 31.1MB)](http://teaching.paulos.net/CP_2015/Readings/Milgram.pdf) In _The Individual in a Social World_ _Reading_. MA: Addison-Wesley, 1977.
 
 Ibid. [The familiar stranger: an aspect of urban anonymity](https://medium.com/@razsc/the-networked-familiar-stranger-an-aspect-of-online-and-offline-urban-anonymity-a5521c98be89#.9wpie9epu).
 
